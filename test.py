@@ -1,3 +1,3 @@
 print("hello")
-print doit
+print ("done")
 print("something went wrong")
